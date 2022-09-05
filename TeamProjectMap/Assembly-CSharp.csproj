@@ -47,11 +47,7 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\KrishnaPalacio\MINIFANTASY Dungeon - Super Low Res 2D Pixel Art by Krishna Palacio\Scripts\SetAnimatorParameter.cs" />
-     <Compile Include="Assets\KrishnaPalacio\MINIFANTASY Dungeon - Super Low Res 2D Pixel Art by Krishna Palacio\Scripts\AnimatedCharacterSelection.cs" />
-     <Compile Include="Assets\KrishnaPalacio\MINIFANTASY Dungeon - Super Low Res 2D Pixel Art by Krishna Palacio\Scripts\AnimatedObjectsGroup.cs" />
-     <Compile Include="Assets\KrishnaPalacio\MINIFANTASY Dungeon - Super Low Res 2D Pixel Art by Krishna Palacio\Scripts\StaggerAnimation.cs" />
-     <Compile Include="Assets\KrishnaPalacio\MINIFANTASY Dungeon - Super Low Res 2D Pixel Art by Krishna Palacio\Scripts\CameraController.cs" />
+     <Compile Include="Assets\Scenes\Test Stage\Script\NewBehaviourScript.cs" />
      <None Include="Assets\KrishnaPalacio\MINIFANTASY Dungeon - Super Low Res 2D Pixel Art by Krishna Palacio\Documentation.txt" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.38f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
